@@ -1,0 +1,12 @@
+#socialMedia{
+  background-color: #121640;
+}
+
+.row > .media{
+    padding: 1rem;
+    max-width:  15rem;
+    margin-left: 1rem;
+    border: 2px solid yellow;
+   border-radius: 0.5rem;
+
+}  
